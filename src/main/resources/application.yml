@@ -1,0 +1,9 @@
+# 应用服务 WEB 访问端口
+server:
+ port: 8080
+
+
+# 企业向微信注册二维码访问时候给的
+weixin:
+ appid: 123132
+ secret: 12313
